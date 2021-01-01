@@ -27,4 +27,4 @@ Website blog dinamis yang memiliki fitur lengkap.
 
 ## Lisensi
 
-Freeware [MIT license](https://opensource.org/licenses/MIT).
+Freeware [MIT license](https://opensource.org/licenses).
